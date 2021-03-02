@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="roll">Roll</string>
+    <string name="number_rolled">The number of the dice is %d</string>
+    <string name="image_to_show">image to show</string>
+</resources>
